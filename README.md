@@ -1,0 +1,2 @@
+# google-automation
+This repository contains my home automation requests send through google assistant. For now that includes my windows 10 pc, phillips hue lights, chrome cast, logitech harmony hub, apple tv, google home hub, and amazon fire tv. I'm focusing mostly on google assistant but if I find ways to integrate between Alexa and Siri I might start separate repos for those. Also I plan to add more features as I think of more ways I want to use google assistant. 
