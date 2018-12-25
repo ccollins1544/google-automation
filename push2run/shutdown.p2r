@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:14.5982669-07:00">
+  <Description>shutdown</Description>
+  <ListenFor>power off
+shut down
+turn off</ListenFor>
+  <Open>shutdown_manual.bat</Open>
+  <StartDirectory>C:\Users\ccollins\</StartDirectory>
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>

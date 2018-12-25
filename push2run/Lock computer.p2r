@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:46.5692425-07:00">
+  <Description>Lock computer</Description>
+  <ListenFor>lock
+lock itself</ListenFor>
+  <Open>rundll32.exe</Open>
+  <StartDirectory />
+  <Parameters>user32.dll, LockWorkStation</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:41.9020373-07:00">
+  <Description>search google</Description>
+  <ListenFor>google $</ListenFor>
+  <Open>https://www.google.com/search?q=$</Open>
+  <StartDirectory />
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>

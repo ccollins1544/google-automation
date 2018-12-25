@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:33.228064-07:00">
+  <Description>Search for pictures</Description>
+  <ListenFor>search for image of $
+search for pictures of $</ListenFor>
+  <Open>https://www.google.com/search?tbm=isch&amp;q=$</Open>
+  <StartDirectory />
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>

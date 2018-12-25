@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T21:20:59.4339519-07:00">
+  <Description>Set computer volume</Description>
+  <ListenFor>change its volume to $
+change its volume to $ percent
+change the volume to $
+change the volume to $ percent
+make its volume $
+make its volume $ percent
+make the volume $
+make the volume $ percent
+set its volume to $
+set its volume to $ percent
+set the volume to $
+set the volume to $ percent</ListenFor>
+  <Open>setvolume.bat</Open>
+  <StartDirectory>C:\Windows\AdminArsenal\</StartDirectory>
+  <Parameters>$</Parameters>
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>

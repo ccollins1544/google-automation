@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:21.7323722-07:00">
+  <Description>Inbox</Description>
+  <ListenFor>open email
+open gmail
+open inbox</ListenFor>
+  <Open>https://mail.google.com/mail/u/0/#inbox</Open>
+  <StartDirectory />
+  <Parameters />
+  <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+</Card>
