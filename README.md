@@ -13,7 +13,8 @@ This repository contains my home automation requests send through google assista
 * Try out some of my push2run scripts or create your own. Just download any of the ***.p2r*** files [here](push2run/) and double click on it and it should automatically add itself to your push2run application. You can see some great examples at [Push2Run website](https://www.push2run.com/examplecards.html)
 * Download the cooresponding ***.bat*** or ***.ps1*** files to go with the ***.p2r*** script and copy them to __C:/Windows/AdminArsenal/__ or create your own path and update all path references to it. 
 * __Notes:__ This screenshot picture might be a better way to run powershell scripts. You might notice that I invoke "close-all-programs" with a ***.bat*** file which calls the ***.ps1*** with admin privileges. I did it that way to bypass the Admin UAC prompt but now I'm realizing it can be done like this other way too (see pic)
-[Powershell-Exaple]: img/powershell-example.png
+
+[Powershell-Example]: img/powershell-example.png
 
 #### Phillips Hue Lights
 * *in progress*
