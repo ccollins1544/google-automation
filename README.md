@@ -23,7 +23,7 @@ This repository contains my home automation configuration with google assistant.
 #### Chromecast
 * *in progress*
 
-#### Amazon Firestick
+#### Amazon Fire Stick
 * *in progress*
 
 #### Apple TV
