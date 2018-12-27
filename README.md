@@ -6,7 +6,7 @@ This repository contains my home automation configuration with google assistant.
 * assets - custom batch, powershell, and AutoHotkey scripts stored on my windows computer. These scripts work in coordination with push2run. I am putting everything in this assets folder to the path C:/Windows/AdminArsenal/ on my computer. So if you want to use a different path just update all the scripts to point to your location. Some of these scripts came from Push2Run [Example Cards](https://www.push2run.com/examplecards.html) so check that out too.
 
 ### Setup Automation To Control:
-***Here's a brief overview of each device configuration. I will go over more in depth details on the wiki page [here](https://github.com/ccollins1544/google-automation/wiki)***
+***The rest of this readme will be a brief overview of each device configuration. I will go over more in depth details on the wiki page [here](https://github.com/ccollins1544/google-automation/wiki)***
 #### Windows PC
 * You will need a Windows PC and some form of Google Assistant. (Google Home Hub, Mini, App Installed, etc.)
 * Get yourself a free account on [Pushbullet](https://www.pushbullet.com/) and [IFTTT](https://ifttt.com/)
