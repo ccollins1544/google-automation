@@ -1,0 +1,1 @@
+shutdown.exe /f /s /c "Shutting down" /t 60
