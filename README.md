@@ -6,7 +6,7 @@ This repository contains my home automation configuration with google assistant.
 * assets - custom batch, powershell, and AutoHotkey scripts stored on my windows computer. These scripts work in coordination with push2run. I am putting everything in this assets folder to the path C:/Windows/AdminArsenal/ on my computer. So if you want to use a different path just update all the scripts to point to your location. Some of these scripts came from Push2Run [Example Cards](https://www.push2run.com/examplecards.html) so check that out too.
 
 ### Setup Automation To Control:
-Phillips Hue Lights, Amazon Fire Stick, Chromecast, Apple TV, Logitech Harmony Hub, and even your Windows PC. I'm sure theirs other devices that can be managed through google automation. The more I use smart home devices I'm finding out how easy it is to use. That being said I think I'll just limit this repo to the more complex automation tasks. 
+The more I use smart home devices I'm finding out how easy it is to use. That being said I think I'll just limit this repo to the more complex automation tasks. 
 
 #### Windows PC
 * You will need a Windows PC and some form of Google Assistant. (Google Home Hub, Mini, App Installed, etc.)
