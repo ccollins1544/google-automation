@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2018-12-24T19:37:24.2819629-07:00">
+<Card xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DateTimeValue="2019-04-18T19:15:18.3892398-06:00">
   <Description>Netflix</Description>
   <ListenFor>open netflix
 play netflix
 start netflix</ListenFor>
-  <Open>Netflix.lnk</Open>
-  <StartDirectory>C:\Windows\AdminArsenal\</StartDirectory>
+  <Open>https://www.netflix.com/</Open>
+  <StartDirectory />
   <Parameters />
   <StartWithAdminPrivileges>false</StartWithAdminPrivileges>
+  <StartingWindowState>3</StartingWindowState>
+  <KeysToSend />
 </Card>
